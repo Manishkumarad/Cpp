@@ -10,3 +10,4 @@ in fisrt day frist we understand the dsa pattern to solve problem because patter
 Days 1
 Date :-- 04/03/2026
 Tuesdays
+problem :- Special Positions in a Binary Matrix
